@@ -1,0 +1,16 @@
+{
+  "student": {
+    "name": "Twisha",
+    "track": "Frontend",
+    "streak": 11,
+    "bestStreak": 11,
+    "completedDays": 11,
+    "completion": 18,
+    "standing": "Top 18%",
+    "profileCompletion": 70
+  },
+  "challenge": {
+    "totalDays": 60,
+    "currentDay": 12
+  }
+}
